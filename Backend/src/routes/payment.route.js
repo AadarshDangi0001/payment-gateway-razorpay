@@ -9,6 +9,4 @@ router.post('/verify', verifyPayment);
 
 
 
-
-
 export default router;
